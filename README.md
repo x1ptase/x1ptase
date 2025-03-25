@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x1ptadkm&label=Profile%20views&color=0e75b6&style=flat" alt="x1ptadkm" /> </p>
 
 - 🌍  I'm based in Viet Nam
-- 👨‍🎓 Studied at FPT University (FPTU HCMC)
+- 👨‍🎓 Studying at FPT University (FPTU HCMC)
 - ✉️  You can contact me via **anhtph911@gmail.com**
 
 <h3 align="left">
