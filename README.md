@@ -29,6 +29,4 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=x1ptadkm&show_icons=true&locale=en" alt="x1ptadkm" /></p>
