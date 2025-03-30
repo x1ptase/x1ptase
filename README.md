@@ -23,7 +23,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://codeforces.com/profile/x1ptadkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x1ptadkm" height="30" width="40" /></a>
 </p>
 
-
 ### Badges
 <b>My GitHub Stats</b>
 
