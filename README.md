@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anh Pham Tuan
 =====================================================================================================================================
 
-
-"Competition is a sin" - John D. Rockefeller
+君 子 求 諸 己，小 人 求 諸 人
 
 * 🌍  I'm based in Vietnam
 * 👨‍💻 Studying at FPT University (FPTU HCMC)
