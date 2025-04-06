@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 子曰："君子求诸己,小人求诸人。"
 
-
 * 🌍  I'm based in Vietnam
 * 👨‍💻 Studying at FPT University (FPTU HCMC)
 * ✉️  You can contact me at [anhtph911@gmail.com](mailto:anhtph911@gmail.com)
