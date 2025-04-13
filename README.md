@@ -1,7 +1,6 @@
 # 💫 About Me:
 子曰："君子求诸己,小人求诸人。"<br><br>🌍 I'm based in Vietnam<br>👨‍💻 Studying at FPT University (FPTU HCMC)<br>✉️ You can contact me at anhtph911@gmail.com
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhpt911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anhtph911@gmail.com) 
 
@@ -10,4 +9,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=x1ptadkm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+ádjkfahskjdfa
+dfhjklaksdfhkjà
+dfkạhf
+àhjkllạhfkjlahf-->
+
+
