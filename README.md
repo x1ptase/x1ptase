@@ -1,5 +1,4 @@
 # 💫 About Me:
-子曰："君子求诸己,小人求诸人。"
 
 Hello,
 My name is AnhPT, and I’m currently a Software Engineering student at FPT University. I’m specializing in backend development with Java and also pursuing the BrSE (Bridge System Engineer) career path to work with the Japanese market.
