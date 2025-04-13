@@ -2,7 +2,7 @@
 子曰："君子求诸己,小人求诸人。"<br><br>🌍 I'm based in Vietnam<br>👨‍💻 Studying at FPT University (FPTU HCMC)<br>✉️ You can contact me at anhtph911@gmail.com
 
 Hello,
-My name is AnhPT, and I’m currently an Information Technology student at FPT University. I’m focusing on backend development using Java and also pursuing the BrSE (Bridge System Engineer) path to work with the Japanese market.
+My name is AnhPT, and I’m currently a Software Engineering student at FPT University. I’m focusing on backend development using Java and also pursuing the BrSE (Bridge System Engineer) path to work with the Japanese market.
 
 Alongside developing my technical skills, I’m also studying Japanese to improve my communication and collaboration abilities in an international working environment. My goal is to become a professional BrSE who can bridge the gap between teams and contribute to successful cross-border IT projects.
 
