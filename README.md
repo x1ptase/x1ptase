@@ -1,8 +1,5 @@
 # 💫 About Me:
 
-
-
-
 Hello,
 My name is AnhPT, and I’m currently a Software Engineering student at FPT University. I’m specializing in backend development with Java and also pursuing the BrSE (Bridge System Engineer) career path to work with the Japanese market.
 
