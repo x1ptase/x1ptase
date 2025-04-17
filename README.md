@@ -7,8 +7,6 @@ In addition to strengthening my technical skills, I’m actively studying Japane
 
 I’m always eager to learn, grow, and take on new challenges in a dynamic and professional environment...
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhpt911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anhtph911@gmail.com) 
 
