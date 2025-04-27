@@ -1,12 +1,3 @@
-# 💫 About Me:
-
-Hello,
-my name is AnhPT, and I’m currently a Software Engineering student at FPT University. I’m specializing in backend development with Java and also pursuing the BrSE (Bridge System Engineer) career path to work with the Japanese market.
-
-In addition to strengthening my technical skills, I’m actively studying Japanese to enhance my communication and collaboration in international working environments. My goal is to become a skilled BrSE who can effectively bridge teams and contribute to the success of global IT projects.
-
-I’m always eager to learn, grow, and take on new challenges in a dynamic and professional environment.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhpt911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anhtph911@gmail.com) 
 
