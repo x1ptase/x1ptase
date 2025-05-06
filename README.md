@@ -1,6 +1,6 @@
 # ![Hi, I'm x1pta](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+x1pta!👋🏼;+;+)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anhpt911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhpt911" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/x1ptadkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="x1ptadkm" height="30" width="40" /></a>
