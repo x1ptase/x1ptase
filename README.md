@@ -1,6 +1,6 @@
 # ![Hi, I'm x1pta](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+x1pta!👋🏼;+;+)
 
-# 🌐 Contact with me:
+### 📺 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhpt911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anhtph911@gmail.com) 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
