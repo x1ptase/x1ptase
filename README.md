@@ -16,4 +16,6 @@
 ### 📊 GitHub Stats:
 ![x1ptadkm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x1ptadkm&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=x1ptadkm&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
