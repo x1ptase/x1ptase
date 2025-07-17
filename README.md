@@ -1,4 +1,4 @@
-# ![Hi, I'm 范俊英](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+x1pta!👋🏼;+;+)
+# ![Hi, I'm 范俊英](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+范俊英!👋🏼;+;+)
 
 <h3 align="left">🌐Contact me:</h3>
 <p align="left">
