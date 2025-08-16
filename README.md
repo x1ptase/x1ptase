@@ -1,4 +1,4 @@
-# ![Hi, I'm 范俊英](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+范俊英!👋🏼;+;+)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=642D97&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <h3 align="left">🌐Contact me:</h3>
 <p align="left">
