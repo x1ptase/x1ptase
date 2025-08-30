@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A349F6&width=435&lines=Welcome!!!" alt="Typing SVG" /></a>
 
 <span> 
-I'm <h4>Tuan Anh</h4>, a <h4>Software Engineering</h4> student at <h4>FPT University</h4>🎓.
+I'm <h5>Tuan Anh</h5>, a <h5>Software Engineering</h5> student at <h4>FPT University</h5>🎓.
 This is where I share my personal projects, university assignments, and everything I've learned.🚀
 </sapn>
 
