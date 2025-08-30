@@ -1,5 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A349F6&width=435&lines=Welcome!!!" alt="Typing SVG" /></a>
 
+I'm **Tuan Anh**, a **Software Engineering** student at **FPT University**🎓.
+This is where I share my personal projects, school assignments, and everything I've learned.🚀
+
 <h3 align="left">🌐Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anhpt911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhpt911" height="30" width="40" /></a>
