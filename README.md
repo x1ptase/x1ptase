@@ -5,7 +5,6 @@
   This is where I share my personal projects, university assignments, and everything I've learned.🚀
 </p>
 
-
 <h3 align="left">🌐Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/x1ptase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhpt911" height="30" width="40" /></a>
