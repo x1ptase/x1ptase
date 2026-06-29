@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E3A8A&width=435&lines=Crafting code, solving problems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A349F6&width=435&lines=Crafting code, solving problems" alt="Typing SVG" /></a>
 
 <p>
   I'm <strong>Tuan Anh</strong>, a <strong>Software Engineering</strong> student at <strong>FPT University</strong>.🎓  
