@@ -6,10 +6,6 @@
 <h3 align="left">🌐Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/x1ptase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhpt911" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/x1ptadkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="x1ptadkm" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/x1ptadkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x1ptadkm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/x1pta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x1pta" height="30" width="40" /></a>
-</p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
