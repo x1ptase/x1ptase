@@ -7,7 +7,7 @@
 Generative AI Engineer | RAG, LLMs, AI Agents
 
 #### Contact me:
-- [LinkedIn](www.linkedin.com/in/x1ptase)
+- [LinkedIn](https://wwww.linkedin.com/in/x1ptase)
 
 #### Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
